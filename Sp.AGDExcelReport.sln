@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sp.AGDExcelReport", "Sp.AGDExcelReport.csproj", "{DEFB1DA9-1F50-4599-B5D4-751BE01083DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFB1DA9-1F50-4599-B5D4-751BE01083DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFB1DA9-1F50-4599-B5D4-751BE01083DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFB1DA9-1F50-4599-B5D4-751BE01083DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFB1DA9-1F50-4599-B5D4-751BE01083DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\BTSDev\Test\Test20\bin\Debug\SpreadsheetGear.dll
+D:\BTSDev\Test\Test20\bin\Debug\SpreadsheetGear.xml
+D:\BTSDev\Test\Test20\obj\Debug\Test20.csprojResolveAssemblyReference.cache
+D:\BTSDev\Test\Test20\bin\Debug\Sp.AGD.ExcelReport.exe.config
+D:\BTSDev\Test\Test20\bin\Debug\Sp.AGD.ExcelReport.exe
+D:\BTSDev\Test\Test20\bin\Debug\Sp.AGD.ExcelReport.pdb
+D:\BTSDev\Test\Test20\obj\Debug\Sp.AGD.ExcelReport.exe
+D:\BTSDev\Test\Test20\obj\Debug\Sp.AGD.ExcelReport.pdb
